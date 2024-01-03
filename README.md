@@ -30,19 +30,20 @@
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻 </h3>
-<div>
+
+<div align="center">
 
 [![5hseok's github stats](https://github-readme-stats.vercel.app/api?username=5hseok&hide_title=true&show_icons=true&disable_animations=true&theme=radical)](https://github.com/5hseok)
 </div>
 
-
-
+<div align="cemter">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5hseok&repo=Django_REST)](https://github.com/5hseok/Django_REST)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5hseok&repo=FindOwn-AI)](https://github.com/5hseok/FindOwn-AI)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5hseok&langs_count=10&hide_progress=true)](https://github.com/5hseok)
+
+</div>
 
 <p align="center">
   
