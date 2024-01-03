@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&animation=twinkling&text=5hseok's%20Github🙄)
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻 </h3>
+<div>
 
-(https://github.com/anuraghazra/github-readme-stats)
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-[!5hseok's github stats](https://github-readme-stats.vercel.app/api?username=5hseok&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![5hseok's github stats](https://github-readme-stats.vercel.app/api?username=5hseok&hide_title=true&show_icons=true&disable_animations=true&theme=radical)](https://github.com/5hseok)
 </div>
+
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5hseok&repo=Django_REST)](https://github.com/5hseok/Django_REST)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5hseok&repo=FindOwn-AI)](https://github.com/5hseok/FindOwn-AI)
