@@ -1,5 +1,7 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&animation=twinkling&text=5hseok's%20Github🙄)
-
+</div>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
 
