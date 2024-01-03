@@ -36,19 +36,17 @@
 <div align="center">
 
 [![5hseok's github stats](https://github-readme-stats.vercel.app/api?username=5hseok&hide_title=true&show_icons=true&disable_animations=true&theme=radical)](https://github.com/5hseok)
-</div>
-
-<div align="cemter">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5hseok&repo=Django_REST)](https://github.com/5hseok/Django_REST)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5hseok&repo=FindOwn-AI)](https://github.com/5hseok/FindOwn-AI)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5hseok&langs_count=10&hide_progress=true)](https://github.com/5hseok)
 
-</div>
 
 <p align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5hseok%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=scratch.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </p>
+</div>
+
