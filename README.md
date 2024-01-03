@@ -11,9 +11,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5hseok&repo=Django_REST)](https://github.com/5hseok/Django_REST)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5hseok&repo=FindOwn-AI)](https://github.com/5hseok/FindOwn-AI)
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5hseok&langs_count=10&hide_progress=true)](https://github.com/5hseok)
+</div>
+
+
 
 
 <!--
