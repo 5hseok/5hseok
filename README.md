@@ -1,25 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&animation=twinkling&text=5hseok's%20Github🙄)
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻 </h3>
-<div>
-
-[![5hseok's github stats](https://github-readme-stats.vercel.app/api?username=5hseok&hide_title=true&show_icons=true&disable_animations=true&theme=radical)](https://github.com/5hseok)
-</div>
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5hseok&repo=Django_REST)](https://github.com/5hseok/Django_REST)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5hseok&repo=FindOwn-AI)](https://github.com/5hseok/FindOwn-AI)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5hseok&langs_count=10&hide_progress=true)](https://github.com/5hseok)
-
-<p align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5hseok%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=scratch.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</p>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
 
@@ -47,3 +27,25 @@
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 
 </div>
+
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻 </h3>
+<div>
+
+[![5hseok's github stats](https://github-readme-stats.vercel.app/api?username=5hseok&hide_title=true&show_icons=true&disable_animations=true&theme=radical)](https://github.com/5hseok)
+</div>
+
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5hseok&repo=Django_REST)](https://github.com/5hseok/Django_REST)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5hseok&repo=FindOwn-AI)](https://github.com/5hseok/FindOwn-AI)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5hseok&langs_count=10&hide_progress=true)](https://github.com/5hseok)
+
+<p align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5hseok%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=scratch.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</p>
