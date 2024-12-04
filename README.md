@@ -40,9 +40,7 @@
   
   <a href="mailto:ohhs1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=ohhs1010@gmail.com"/></a>
   <a href="https://velog.io/@5hseok/posts"><img src="https://img.shields.io/badge/Velog-EA4365?style=flat-square&logo=Velog&logoColor=white&link=(https://velog.io/@5hseok/posts)"/></a>
-
-  https://velog.io/@5hseok/posts
-
+  <a href="https://www.linkedin.com/in/%ED%98%84%EC%84%9D-%EC%98%A4-5a154a328/"><img src="https://img.shields.io/badge/LinkedIn-EA4365?style=flat-square&logo=LinkedIn&logoColor=white&link=(https://www.linkedin.com/in/%ED%98%84%EC%84%9D-%EC%98%A4-5a154a328/)"/></a>
   
 
 </div>
