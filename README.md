@@ -51,7 +51,6 @@
 <!-- 깃헙 정보 -->
 
 [![5hseok's github stats](https://github-readme-stats.vercel.app/api?username=5hseok&hide_title=true&show_icons=true&disable_animations=true&theme=radical)](https://github.com/5hseok)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5hseok&layout=compact&theme=onedark)    
 
 <!-- 3D 잔디 -->
 ![3D GLASS](./profile-3d-contrib/profile-green-animate.svg)    
