@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/GCP-4285F4?&style=flat-square&logo=Google%20Cloud&logoColor=white"></a>
   </div>
   
   <h3 align="center">🛠 Tools 🛠</h3>
